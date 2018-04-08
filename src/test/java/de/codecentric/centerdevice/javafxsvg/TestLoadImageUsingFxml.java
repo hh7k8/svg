@@ -5,6 +5,8 @@ import static org.junit.Assert.assertNotNull;
 
 import java.io.IOException;
 
+import javax.swing.event.TreeWillExpandListener;
+
 import org.junit.BeforeClass;
 import org.junit.Test;
 import org.loadui.testfx.GuiTest;
